@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rhysinku.github.io/product-item",
+  "homepage": "https://rhysinku.github.io/product-item/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
